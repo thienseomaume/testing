@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\",
+  "WorkspaceRootPath": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|c:\\users\\thien\\documents\\ktpm\\unittestproject1\\unittestproject1\\test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|c:\\users\\thien\\documents\\ktpm\\tabathien-nhom13\\unittestproject1\\test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|solutionrelative:unittestproject1\\test\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\unittestproject1\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\unittestproject1\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|solutionrelative:unittestproject1\\pages\\checkoutpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\unittestproject1\\pages\\productdetailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\unittestproject1\\pages\\productdetailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|solutionrelative:unittestproject1\\pages\\productdetailpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\unittestproject1\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\unittestproject1\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71A1EC3E-C435-4F23-A391-BB9DF3DBA330}|UnitTestProject1\\TestProject1.csproj|solutionrelative:unittestproject1\\data\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Data.cs",
-              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Data\\Data.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Data\\Data.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\Data\\Data.cs",
-              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Data\\Data.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Data\\Data.cs",
               "RelativeToolTip": "UnitTestProject1\\Data\\Data.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ProductDetailPage.cs",
-              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Pages\\ProductDetailPage.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Pages\\ProductDetailPage.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\Pages\\ProductDetailPage.cs",
-              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Pages\\ProductDetailPage.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Pages\\ProductDetailPage.cs",
               "RelativeToolTip": "UnitTestProject1\\Pages\\ProductDetailPage.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CheckoutPage.cs",
-              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Pages\\CheckoutPage.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Pages\\CheckoutPage.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\Pages\\CheckoutPage.cs",
-              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Pages\\CheckoutPage.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Pages\\CheckoutPage.cs",
               "RelativeToolTip": "UnitTestProject1\\Pages\\CheckoutPage.cs",
               "ViewState": "AQIAAH4AAAAAAAAAAAAiwC0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Test1.cs",
-              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Test\\Test1.cs",
+              "DocumentMoniker": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Test\\Test1.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\Test\\Test1.cs",
-              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\UnitTestProject1\\UnitTestProject1\\Test\\Test1.cs",
+              "ToolTip": "C:\\Users\\thien\\Documents\\KTPM\\TaBaThien-nhom13\\UnitTestProject1\\Test\\Test1.cs",
               "RelativeToolTip": "UnitTestProject1\\Test\\Test1.cs",
-              "ViewState": "AQIAAFsBAAAAAAAAAAAwwIIBAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIIBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T15:36:45.55Z",
               "EditorCaption": ""
