@@ -21,6 +21,7 @@ namespace TestProject1
         {
             driver = new ChromeDriver();
             wait = new WebDriverWait(driver,TimeSpan.FromSeconds(10));
+            driver.Manage().Window.Maximize();
             CheckoutPage.driver = driver;
             CheckoutPage.wait = wait;
         }
