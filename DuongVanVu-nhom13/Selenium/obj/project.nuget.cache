@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "AiBb+yh0zsSD5zt6GQ644Kl9l0QHS1ou3MLJcNw+X7nAJjZqqMfNw8B9BaDAfjdV8BFnXm76tXruEAEOWJYGEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\thien\\Documents\\KTPM\\DuongVanVu-nhom13\\Selenium\\Selenium.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thien\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\nunit.engine\\3.18.1\\nunit.engine.3.18.1.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\nunitlite\\4.1.0\\nunitlite.4.1.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\selenium.webdriver\\4.23.0\\selenium.webdriver.4.23.0.nupkg.sha512",
+    "C:\\Users\\thien\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

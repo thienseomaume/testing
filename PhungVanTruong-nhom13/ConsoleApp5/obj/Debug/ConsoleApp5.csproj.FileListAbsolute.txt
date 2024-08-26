@@ -1,0 +1,16 @@
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\selenium-manager\linux\selenium-manager
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\selenium-manager\macos\selenium-manager
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe.config
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.exe
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\ConsoleApp5.pdb
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.dll
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\WebDriver.dll
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\Newtonsoft.Json.xml
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\bin\Debug\WebDriver.xml
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.AssemblyReference.cache
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleA.ECD0A8E0.Up2Date
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.exe
+D:\Tích Hợp HTPM\ConsoleApp5\ConsoleApp5\obj\Debug\ConsoleApp5.pdb
